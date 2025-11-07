@@ -77,7 +77,7 @@ document.getElementById('start').addEventListener('click', async () => {
   });
 });
 
-/* Or copy the following code to run in the console of your Instagram profile page:
+// Or copy the following code to run in the console of your Instagram profile page.
 // This code is intended to be run in the console of your Instagram profile page.
 // It will unfollow users who do not follow you back, with a delay to avoid detection.
 // Make sure to run this in a browser with the Instagram profile page open.
@@ -161,4 +161,3 @@ document.getElementById('start').addEventListener('click', async () => {
 
   console.log(`🎉 Done. Unfollowed ${count} users.`);
 })();
-*/
